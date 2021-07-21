@@ -74,7 +74,7 @@ var simplemaps_countrymap_mapdata={
       name: "Baja California",
       popups: "https://www.sonora.gob.mx",
       color: "#d83670",
-      url: "https://hildab4.github.io/esencia-patrimonio/bc.pdf",
+      url: "https://drive.google.com/file/d/1BiwyaqtE4mq152vWMY9qIXIXAFddj1fn/view?usp=sharing",
       image_url: "https://media-cdn.tripadvisor.com/media/photo-s/1c/7d/b8/c7/la-paz-mexico-photo-by.jpg"
     },
     MEX2707: {
