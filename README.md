@@ -8,3 +8,6 @@ Esencia Patrimonio es un repositorio dedicado a mostrar el patrimonio cultural d
 ## Estructura de Archivos
 - Archivos PDF: Información cultural detallada para cada estado (por ejemplo, aguas.pdf, bcs.pdf).
 - HTML y JS: index.html, countrymap.js, mapdata.js.
+
+## Uso
+Clona el repositorio y abre index.html en un navegador web para explorar el mapa interactivo y acceder a los documentos del patrimonio cultural.
